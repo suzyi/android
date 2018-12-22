@@ -20,6 +20,7 @@ General installation steps:
 + [android studio](https://developer.android.com/studio/) - [build your first app](https://developer.android.com/training/basics/firstapp/)
 
 ## project
+### How to export a project as apk file?
 ### My first App
 This app only show "Hello world!" on my Huawei phone.
 + The procedure of implemention is [building your first app](https://developer.android.com/training/basics/firstapp/)
