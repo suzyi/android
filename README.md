@@ -20,4 +20,12 @@ General installation steps:
 + [android studio](https://developer.android.com/studio/) - [build your first app](https://developer.android.com/training/basics/firstapp/)
 
 ## project
+### My first App
+This app only show "Hello world!" on my Huawei phone.
++ The procedure of implemention is [building your first app](https://developer.android.com/training/basics/firstapp/)
+### calculator
+Ｔｈｉｓ app 
++
+### camera
+### object counting/detection
 + task decription - You need to finish an APP, which can use camera to proceeding object-detection tasks, such counting and face recognition.
