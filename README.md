@@ -1,4 +1,10 @@
 # android
+## App Collections
+| date | link |
+|------|------|
+| Jul 7, 2019 | [Xiaozhan-toefl]()|
+| May 3, 2018 | [mx-player](https://github.com/suzyi/android/blob/master/app-collections/mxplayer.apk)|
+
 ### root my phone
 There are two ways to root your handset - directly root by some root software, or reinstall your system with some rooted ROM system package.
 
