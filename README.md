@@ -1,4 +1,25 @@
 # android
+## favorite android apps
+huawei store
++ 讯飞输入法
++ Joyrun
++ 掌上生活
++ Ximalaya
++ 小站托福
++ Alipay
++ QQ邮箱
++ WPS office
++ 每日英语听力
++ 钉钉
++ 租八戒
++ Eudic
+
+google play
++ VOA Learning English
++ VOA
++ Player FM
++ Podcast addict
++ Marriam-Webster
 ## App Collections
 | date | link |
 |------|------|
