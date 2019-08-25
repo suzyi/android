@@ -1,34 +1,4 @@
 # android
-## favorite android apps
-huawei store
-+ 讯飞输入法
-+ Joyrun
-+ 掌上生活
-+ Ximalaya
-+ 小站托福
-+ Alipay
-+ QQ邮箱
-+ WPS office
-+ 每日英语听力
-+ 钉钉
-+ 租八戒
-+ Eudic
-
-google play
-+ VOA Learning English
-+ VOA
-+ Player FM
-+ Podcast addict
-+ Marriam-Webster
-## App Collections
-| date | link |
-|------|------|
-| Jul 7, 2019 | [Xiaozhan-toefl]()|
-| May 3, 2018 | [mx-player](https://github.com/suzyi/android/blob/master/app-collections/mxplayer.apk)|
-
-### root my phone
-There are two ways to root your handset - directly root by some root software, or reinstall your system with some rooted ROM system package.
-
 ## android development
 ### installation
 Before installation
